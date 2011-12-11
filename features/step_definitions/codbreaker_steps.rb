@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class Output
   def messages
     @messages ||= []
